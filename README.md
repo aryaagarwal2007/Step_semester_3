@@ -1,5 +1,14 @@
 ## Date: 27-09-2026
 **Today's Work:**
+- Session 5: practice problems (Hackathon Curve Booster, Duplicate Team Finder, Top-3 Podium, Seating Grid Optimizer, Placement Ranking) and assignment problems (Fantasy Score Multiplier, Duplicate Pick Checker, Top Performer Tracker, Match Day Grid Analyzer, Auto-Draft Ranking Engine)
+**Next Session Plan:**
+- (fill in whatever you're doing next)
+**Issues Faced:**
+- None
+---
+
+## Date: 27-09-2026
+**Today's Work:**
 - Solved Category C array problems: Product Except Self, Max Subarray, 3Sum, Subarray Sum Equals K, Find Min in Rotated Sorted Array
 **Next Session Plan:**
 - (fill in whatever you're doing next)
