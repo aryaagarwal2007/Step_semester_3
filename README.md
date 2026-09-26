@@ -1,3 +1,15 @@
+## Date: 27-09-2026
+**Today's Work:**
+- Solved Category C problems on Inheritance and Polymorphism (Payment/Delivery/Transport fee calculators, Library due dates, Exam grading, Canteen billing, Parking charges, Electricity bills, Festival bonuses, Streaming renewals) — each using an abstract base class with overriding subclasses so the processing logic avoids type-checking
+
+**Next Session Plan:**
+- TBD
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 19-09-2026
 **Today's Work:**
 - Solved Category C problems on Encapsulation & Access Control (Character health bar, Playlist defensive copy, PasswordChecker write-only, TrafficLight forward-only cycle, Cart computed totals, PiggyBank, Scorecard, NameTag immutability, Locker write-only code, AttendanceSheet)
