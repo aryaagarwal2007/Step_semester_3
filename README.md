@@ -2,7 +2,8 @@
 
 ## Date: 16-10-2026
 **Today's Work:**
-- Solved 5 abstraction problems (Garden Plot, Staff Pay, Library Fine, Electricity Billing, Travel Booking) using abstract classes
+- Solved 5 class problems on abstract classes (Garden Plot, Staff Pay, Library Fine, Electricity Billing, Travel Booking)
+- Solved 5 assignment problems using abstract classes and interfaces (Movie Ticket, Parcel Shipping, College Fee, Cab Fare, Appliance Energy)
 
 **Next Session Plan:**
 - Interfaces and abstract class vs interface
