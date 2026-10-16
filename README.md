@@ -1,3 +1,28 @@
+## Date: 16-10-2026
+
+## Date: 16-10-2026
+**Today's Work:**
+- Solved 5 abstraction problems (Garden Plot, Staff Pay, Library Fine, Electricity Billing, Travel Booking) using abstract classes
+
+**Next Session Plan:**
+- Interfaces and abstract class vs interface
+
+**Issues Faced:**
+- None
+
+---
+
+**Today's Work:**
+- Solved 5 abstraction problems (Garden Plot, Staff Pay, Library Fine, Electricity Billing, Travel Booking) using abstract classes
+
+**Next Session Plan:**
+- Interfaces and abstract class vs interface
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 27-09-2026
 **Today's Work:**
 - Solved Category C problems on Inheritance and Polymorphism (Payment/Delivery/Transport fee calculators, Library due dates, Exam grading, Canteen billing, Parking charges, Electricity bills, Festival bonuses, Streaming renewals) — each using an abstract base class with overriding subclasses so the processing logic avoids type-checking
