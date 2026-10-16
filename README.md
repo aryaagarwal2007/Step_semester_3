@@ -1,4 +1,17 @@
 ## Date: 16-10-2026
+**Today's Work:**
+- Solved 10 practice problems on strings, arrays, loops and conditionals
+- Solved 5 assignment problems (Exam Score Band Counter, Class Attendance Tracker, Second-Best Score, Duty Roster Rotation, Busiest Bus Row)
+
+**Next Session Plan:**
+- Next topic as per schedule
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 16-10-2026
 
 ## Date: 16-10-2026
 **Today's Work:**
