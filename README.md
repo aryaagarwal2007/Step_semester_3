@@ -1,3 +1,18 @@
+## Date: 13-11-2026
+
+**Today's Work:**
+- Completed 4 assignment problems.
+- Completed 10 class problems.
+- Practiced sorting, searching, hashing, arrays, matrices and two-pointer techniques.
+- Uploaded all Week 11 Java programs to feature/session_11.
+
+**Next Session Plan:**
+- Continue with Week 12 DSA problems.
+- Practice implementation and optimization of algorithms.
+
+**Issues Faced:**
+- Resolved file path and Git upload issues.
+
 ## Date: 16-10-2026
 **Today's Work:**
 - Solved 10 practice problems on strings, arrays, loops and conditionals
@@ -46,8 +61,6 @@
 
 **Issues Faced:**
 - None
-
----
 
 ## Date: 19-09-2026
 **Today's Work:**
@@ -104,3 +117,4 @@
 
 **Issues Faced:**
 - None
+
